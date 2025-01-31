@@ -12,4 +12,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Running the model
+Execute this command from the directory where you have cloned the repo.
+```Bash
+python runner.py
+```
+
 Optional: Install CUDA tollkit if using GPU
